@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PuppyCare</string>
+    <string name="account_type">co.com.worldsoft.puppycare.account</string>
+    <string name="provider_authority">co.com.worldsoft.puppycare</string>
+    <string name="action_sync">Sincronizar</string>
+    <string name="action_settings">Configuracion</string>
+</resources>
